@@ -1,18 +1,19 @@
 
+
 # Aditya Pulad 👋
 ### Computer Science & Engineering | Data Science (IIT Madras) | AI & Cybersecurity Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer+Undergraduate;Data+Science+Scholar+%40+IIT+Madras;AI+%26+Cybersecurity+Researcher;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=CSE+Undergraduate+%40+GHEC+Bandla;Data+Science+Scholar+%40+IIT+Madras;AI+%26+Generative+Models+Enthusiast;Cybersecurity+%26+Systems+Researcher" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 💫 Professional Profile
 
-A results-driven **Computer Science and Engineering** undergraduate with a dual-academic focus. I am currently a **2nd-year student at Government Hydro Engineering College, Bandla**, while concurrently pursuing a **BS in Data Science from the Indian Institute of Technology Madras**. 
+I am a **Computer Science and Engineering** undergraduate currently in my **2nd year at Government Hydro Engineering College, Bandla**, concurrently pursuing a **BS in Data Science and Applications from IIT Madras**. 
 
-My technical foundation is built on a rigorous curriculum of engineering principles, enhanced by specialized training in **Machine Learning, Generative AI, and Cybersecurity**. I am passionate about bridging the gap between theoretical computer science and real-world impact through innovative software solutions.
+My focus lies at the intersection of **Artificial Intelligence**, **System Architecture**, and **Digital Security**. I have a proven interest in exploring **Generative Models (LLMs)** and building secure, scalable applications. Currently, I am applying my full-stack and data science skills to develop **PrithviPath**, a mobile application project.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AdityaPulad&label=Profile%20Views&color=0e75b6&style=flat-square&logo=github" alt="Profile Views" />
@@ -21,44 +22,66 @@ My technical foundation is built on a rigorous curriculum of engineering princip
 
 ---
 
-## 🎓 Education & Academic Journey
+## 🎓 Academic Foundation
 
-* **B.Tech in Computer Science & Engineering** *Government Hydro Engineering College, Bandla* | **2nd Year**
-* **BS in Data Science & Applications** *Indian Institute of Technology Madras (IITM)* | **Ongoing**
+* **B.Tech in Computer Science & Engineering** | *Government Hydro Engineering College, Bandla* | **2nd Year**
+* **BS in Data Science & Applications** | *Indian Institute of Technology Madras (IITM)*
+* **Specialized Participation:** *Pre-Summit AI-Samarthya 2026 (IIT Mandi)* - Focused on AI, LLMs, and Generative Models.
 
 ---
 
-## 🛠 Strategic Core Competencies
+## 🛠 Technical Core Competencies
 
 <details open>
-<summary><b>Programming & Scripting</b></summary>
+<summary><b>Programming & Web Development</b></summary>
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 </details>
 
-<details>
-<summary><b>Artificial Intelligence & Data Science</b></summary>
+<details open>
+<summary><b>Data Science & Artificial Intelligence</b></summary>
 <p align="left">
-  <img src="https://img.shields.io/badge/Machine_Learning-36BCF7?style=flat-square&logo=Scikit-Learn&logoColor=white" alt="ML" />
-  <img src="https://img.shields.io/badge/Deep_Learning-36BCF7?style=flat-square&logo=TensorFlow&logoColor=white" alt="DL" />
-  <img src="https://img.shields.io/badge/Generative_AI_/_LLMs-36BCF7?style=flat-square&logo=OpenAI&logoColor=white" alt="GenAI" />
-  <img src="https://img.shields.io/badge/Data_Analytics-36BCF7?style=flat-square" alt="Analytics" />
+  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI_/_LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistics_%26_Probability-008080?style=for-the-badge" />
 </p>
 </details>
 
-<details>
-<summary><b>Systems Engineering & Security</b></summary>
+<details open>
+<summary><b>Systems, Architecture & Security</b></summary>
 <p align="left">
-  <img src="https://img.shields.io/badge/Cybersecurity-red?style=flat-square&logo=Qualys&logoColor=white" alt="Cyber" />
-  <img src="https://img.shields.io/badge/DBMS-0e75b6?style=flat-square&logo=MySQL&logoColor=white" alt="DBMS" />
-  <img src="https://img.shields.io/badge/OS_Architecture-0e75b6?style=flat-square&logo=Ubuntu&logoColor=white" alt="OS" />
-  <img src="https://img.shields.io/badge/8085_Microprocessor-444?style=flat-square" alt="8085" />
+  <img src="https://img.shields.io/badge/Cybersecurity-CC0000?style=for-the-badge&logo=checkpoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DBMS_(SQL)-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/8085_Microprocessor-808080?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Discrete_Mathematics-6347D1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer_Organization-000000?style=for-the-badge" />
 </p>
 </details>
+
+<details open>
+<summary><b>Tools & Environments</b></summary>
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux_(Ubuntu)-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+</details>
+
+---
+
+## 🚀 Key Projects
+
+### **PrithviPath**
+* **Overview:** Developing a specialized mobile application focused on path-finding or mapping (specifics in progress).
+* **Tech Stack:** Python, Full-stack components, Mobile Dev frameworks.
 
 ---
 
@@ -71,7 +94,7 @@ My technical foundation is built on a rigorous curriculum of engineering princip
 
 ---
 
-## 🚀 Interactive Contribution Timeline
+## 🐍 Activity Visualization
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -79,7 +102,7 @@ My technical foundation is built on a rigorous curriculum of engineering princip
 
 ---
 
-## 🤝 Connect & Collaborate
+## 🤝 Professional Connection
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-pulad-aa20aa233" target="_blank">
@@ -88,6 +111,6 @@ My technical foundation is built on a rigorous curriculum of engineering princip
 </p>
 
 ---
-<p align="center"><sup>Developed by Aditya Pulad | CSE Undergraduate</sup></p>
-README_Final_BTech.md
-Displaying README_Final_BTech.md.
+<p align="center"><sup>Undergraduate Engineer | Data Scientist | AI Enthusiast</sup></p>
+README_Final_Official.md
+Displaying README_Final_Official.md.
