@@ -4,7 +4,7 @@
 ### Computer Science & Engineering | Data Science (IIT Madras) | AI & Cybersecurity Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=CSE+Undergraduate+%40+GHEC+Bandla;Data+Science+Scholar+%40+IIT+Madras;AI+%26+Generative+Models+Enthusiast;Cybersecurity+%26+Systems+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=CSE+Undergraduate+%40+GHEC+Bandla;Data+Science+Scholar+%40+IIT+Madras;AI+%26+Generative+Models+Enthusiast;Cybersecurity+%26+Systems+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
